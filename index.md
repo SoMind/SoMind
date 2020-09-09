@@ -19,9 +19,9 @@ This page documents where the various parts of the project are hosted and what a
 
 ### Hosting
 
-1. The system is currently run on Digital Ocean Managed Kubernetes.
+1. The system is currently run on Digital Ocean managed Kubernetes.
 1. TLS is implemented with Lets Encrypt.
-1. DT event sourcing is persisted to Digital Ocean Managed Postgres.
+1. DT event sourcing is persisted to Digital Ocean managed Postgres.
 
 ### Support or Contact
 
