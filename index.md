@@ -15,7 +15,9 @@ This page documents where the various parts of the project are hosted and what a
 1. DtLab API endpoint - https://somind.tech/dtlab-alligator/(type/actor)
 1. DtLab Ingest API [Docs](https://somind.tech/dtlab-alligator/doc/dtlab-ingest/) - OpenAPI 3.0
 1. DtLab Ingest API endpoint - https://somind.tech/dtlab-alligator/extractor
-1. Security is Implemented by [Auth0](https://manage.auth0.com/dashboard/us/navicore/) - contact Navicore for access.
+1. Security is Implemented by [Auth0](https://manage.auth0.com/dashboard/us/navicore/) - contact Navicore for access
+1. Project Kanban with backlog and help wanted tags is [here](https://github.com/orgs/SoMind/projects/1)
+1. This page is generated from gh-pages branch of the [SoMind.github.io](https://github.com/SoMind/SoMind.github.io/blob/gh-pages/index.md)
 
 ### Hosting
 
