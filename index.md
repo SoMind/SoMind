@@ -1,6 +1,6 @@
 ## Welcome to the Society of Mind Software Project
 
-This page documents where the various parts of the project are hosted and what access is required to be granted to use each resource.
+This page documents where the various parts of the project are hosted or supported from.
 
 ### Links
 
