@@ -24,6 +24,10 @@ This page documents where the various parts of the project are hosted or support
 1. The system is currently run on Digital Ocean managed Kubernetes.
 1. TLS is implemented with Lets Encrypt.
 1. DT event sourcing is persisted to Digital Ocean managed Postgres.
+1. IOT Device Management and Connectivity via Cloud PAAS
+  a. AWS IOT Core is deployed with webhook forwarding to the DtLab sandbox Ingest Service (contact Navicore for access)
+  b. MQTT (TBD)
+  c. Azure IotHub (TBD)
 
 ### Support or Contact
 
